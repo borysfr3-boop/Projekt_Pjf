@@ -1,6 +1,6 @@
 # Projekt_Pjf
 Gra typu Tower Defense
-Projekt pomysły:
+Projekt pomysł:
 1. Gra Tower Defense w sci fi Obrona ztsacji kosmiczxnej
 
 Scieżka przeciwników na mapie lewa strona przeciwnicy prawa gracz
@@ -16,8 +16,6 @@ ZAKRES funkcjonalny w szczegolach
 - System punktów życia stacji ( regeneruue
 - Menu gry i panel informacji (fale, HP, kredyty)
 - Zapis najlepszego wyniku (high score)
-- System ulepszania wież poprzez ulepszanie poziomu oraz wyboru dodatkowych umiejętności (np. poprzez zdobycie określonego lvl)
-wykorzystanie :
 - Biblioteka PyGame
 - Programowanie obiektowe 
 Architektura prpgramu
